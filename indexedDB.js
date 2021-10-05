@@ -111,6 +111,7 @@ function regist() {
             db.close();
         }
     }
+    createList();
 }
 
 function createList() {
